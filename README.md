@@ -12,3 +12,5 @@ ISIC DatasetLink : https://challenge2024.isic-archive.com/
 PAD DatasetLink : https://data.mendeley.com/datasets/zr7vgbcyr2/1
 
 Kaggel DatasetLink : https://www.kaggle.com/datasets/kmader/skin-lesion-analysis-toward-melanoma-detection
+
+Kaggle DatasetLink(HAM10000) : https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
