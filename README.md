@@ -15,4 +15,4 @@ Kaggel DatasetLink : https://www.kaggle.com/datasets/kmader/skin-lesion-analysis
 
 Kaggle DatasetLink(HAM10000) : https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
 
-https://www.kaggle.com/datasets/abbasashwal/isic-2020-dataset
+Kaggle Dataset Benign:  https://www.kaggle.com/datasets/abbasashwal/isic-2020-dataset
