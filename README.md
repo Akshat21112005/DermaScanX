@@ -18,3 +18,7 @@ Kaggle DatasetLink(HAM10000) : https://www.kaggle.com/datasets/kmader/skin-cance
 Kaggle Dataset Benign:  https://www.kaggle.com/datasets/abbasashwal/isic-2020-dataset
 
 Frontend RepoLink : https://github.com/JITEN-BHARGA/skin-cancer-frontend.git
+
+Huggingface Model Link : https://huggingface.co/spaces/jiten-333/Skin_Cancer
+
+our website Link : https://skin-cancer-frontend-ffho.vercel.app/
