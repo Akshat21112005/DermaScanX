@@ -22,3 +22,24 @@ Frontend RepoLink : https://github.com/JITEN-BHARGA/skin-cancer-frontend.git
 Huggingface Model Link : https://huggingface.co/spaces/jiten-333/Skin_Cancer
 
 our website Link : https://skin-cancer-frontend-ffho.vercel.app/
+
+# our code running instruction :
+
+first make .env file 
+variables :
+1. NEXT_PUBLIC_API_URL
+2. GROQ_API_KEY
+
+## first open backend folder integrated terminal
+
+download requirement
+
+pip install -r requirements.txt
+
+server run command : python uvicorn main:app --reload 
+
+## open frontend integreted terminal
+
+run 
+1. npm install
+2. npm run dev
